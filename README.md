@@ -12,47 +12,47 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Moisis Mounir</h1>
-<h3 align="center">Senior Computer Engineering Student | Aspiring Software Developer</h3>
+<h3 align="center">Computer Engineering Graduate | Full-Stack & Mobile Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I'm a final-year Computer Engineering student with a strong passion for building full-stack applications — from web and mobile to embedded systems.
+🎓 I'm a Computer Engineering and Software Systems graduate from Ain Shams University . 
 
-🚀 I specialize in creating intuitive user experiences and solving real-world problems through code.  
-🎮 In my free time, I develop personal projects like mobile apps, web platforms, and indie games to sharpen my skills.
+🚀 I specialize in developing robust web and mobile applications, with hands-on experience across the full tech stack—from frontend frameworks like Angular and Flutter to backend systems and cloud databases.
 
-🔍 I’m actively looking for internships and full-time opportunities where I can contribute, learn, and grow as a developer.
+💡 I enjoy building real-world projects that merge functionality and design — from indie games to productivity tools.
+
+🔍 I'm currently open to junior developer and entry-level engineering roles where I can contribute, learn, and grow.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-I’m experienced in a wide range of languages, frameworks, and platforms:
-
-<div align="left">
-  <!-- Language and tool icons here (unchanged) -->
-  <!-- Keep the same icons from your original section -->
-</div>
+* **Languages:** Java, Python, Dart, C++, TypeScript, SQL
+* **Frameworks:** Flutter, Angular, Firebase, Node.js, Express.js
+* **Databases:** Firebase Firestore, MySQL, MongoDB
+* **Tools:** Git, GitHub, Postman, Figma, Docker
+* **Testing:** JUnit, Integration Testing, QA Automation
 
 ---
 
 ### 💼 Featured Projects
 
-Here are a few projects I’ve worked on. [View more on my GitHub →](https://github.com/Moisis)
-
-- 🚧 **Smart Home Automation System**  
+* 🏠 **Smart Home Automation System**  
   `Arduino + C++ + MQTT + Firebase`  
-  Designed and implemented a smart home system with real-time monitoring and control via mobile.
+  Designed a real-time home automation setup with remote control and monitoring.
 
-- 📱 **Flutter Task Manager App**  
+* 📱 **Flutter Task Manager App**  
   `Flutter + Dart + Firebase Auth + Firestore`  
-  A productivity mobile app with authentication, dark mode, and cloud data sync.
+  A sleek task management app featuring user auth, dark mode, and cloud syncing.
 
-- 🌐 **Angular E-Commerce Dashboard**  
+* 📂 **Angular E-Commerce Dashboard**  
   `Angular + TypeScript + Node.js + MySQL`  
-  Admin panel with analytics, product management, and user authentication.
+  Admin panel with product analytics, management tools, and secure login.
+
+> Explore more projects on [GitHub →](https://github.com/Moisis)
 
 ---
 
@@ -65,13 +65,12 @@ Here are a few projects I’ve worked on. [View more on my GitHub →](https://g
 
 ---
 
-### 📫 Let’s Connect!
+### 📢 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/moisis-mounir-72153a280/)
-- 📬 moisis.george96@gmail.com  
-- 🌍 [GitHub Portfolio](https://github.com/Moisis)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/moisis-mounir/)
+* 📬 [moisis.george96@gmail.com](mailto:moisis.george96@gmail.com)
+* 🌍 [GitHub](https://github.com/Moisis)
 
 ---
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
-
